@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to my prfile. This is for listing projects that I am working on. I am working on Unity game projects at the moment as well as starting to learn about web design. 
+
 <!--
 **Rahiro1/Rahiro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
