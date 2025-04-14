@@ -3,7 +3,7 @@
 I am an aspiring software developer from the UK. Please check out my projects.
 
 - 🌱 I’m currently learning HTML, CSS, Javascript and generally about web development.
-- 🔭 I’m currently working on a tactics game
+- 🔭 I periodically update my tactis-game and tactics-game-character projects
 <!--
 **Rahiro1/Rahiro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
