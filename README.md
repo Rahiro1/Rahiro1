@@ -2,8 +2,9 @@
 
 I am an aspiring software developer from the UK. Please check out my projects.
 
-- 🌱 I’m currently learning HTML, CSS, Javascript and generally about web development.
 - 🔭 I periodically update my tactis-game and tactics-game-character projects
+- 🌱 I am woring on my web development skills and upload website projectzs here
+- 🔭 I’m currently working on a gameboy emulator 
 <!--
 **Rahiro1/Rahiro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
